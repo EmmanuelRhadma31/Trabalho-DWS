@@ -1,0 +1,19 @@
+body {
+    font-family: "Roboto",sans-serif;
+}
+
+a{
+    text-decoration: none;
+}
+/* navbar */
+.navbar{
+  background-color: white;
+}
+
+.navbar-brand{
+  height: 2rem;
+}
+.navbar-menu{
+  display: flexbox;
+  align-content: center;
+}
